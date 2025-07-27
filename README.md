@@ -22,6 +22,9 @@ The component includes:
 - Carousel navigation dots
 - Responsive layout that adapts to different screen sizes
 
+## URL PROJECT
+https://roadmap.sh/projects/testimonial-cards
+
 ## Technologies Used
 
 - HTML5
@@ -33,6 +36,8 @@ The component includes:
 1. Clone or download this repository
 2. Open `index.html` in your browser
 3. Customize the content and styling as needed
+
+
 
 ## Usage
 
